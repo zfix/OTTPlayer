@@ -2,7 +2,7 @@
 	"name": "OTTPlayer",
 	"date": "2021.01.14",
 	"version": "1.0.0",
-	"description": "OTTPlayer",
+	"description": "ТВ каналы",
 	"author": {
 		"name": "HenSoft"
 	},
@@ -14,7 +14,7 @@
 	"config": {
 		"type": "app",
 		"category": "apps",
-		"name": "OTTPlayer",
+		"name": "ТВ каналы",
 		"legacy": true,
 		"description": "OTTPlayer",
 		"backgroundColor": "#00C8DA",
