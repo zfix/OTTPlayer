@@ -14,7 +14,7 @@
 	"config": {
 		"type": "app",
 		"category": "apps",
-		"name": "ТВ каналы",
+		"name": "TV_channels",
 		"legacy": true,
 		"description": "ТВ каналы",
 		"backgroundColor": "#00C8DA",
